@@ -1,0 +1,32 @@
+#titulo{
+    color: blue;
+    font-size: 15 px;
+}
+
+a{
+    color: blue;
+    font-size: 15 px;
+}
+
+img{
+   width: 200px;
+    
+}
+
+li{
+
+    font-weight: bold;
+    color: blueviolet;
+}
+
+p{
+
+    border: 5px solid #fff858;
+}
+
+div{
+
+    background-color: #fff858;
+    width: 200px;
+    height: 200px;
+}
